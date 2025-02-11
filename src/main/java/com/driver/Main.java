@@ -9,6 +9,7 @@ class Product{
   public double product(double x, double y){
     return x*y;
   }
+}
 public class Main {
   public static void main(String [] args){
     Product p = new Product();
